@@ -1,0 +1,9 @@
+{
+	"GLOBAL":"Global",
+	"PAGES":["MDG1","MDG2","MDG3","MDG4"],
+	"login":{
+		"login_url":"https://www.hmis.gov.la/hmis/dhis-web-commons/security/login.action?authOnly=true",
+		"username":"wha",
+		"password":"Toxic385622"	
+	}
+}
