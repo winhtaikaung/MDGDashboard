@@ -2,6 +2,9 @@
 	"GLOBAL":"Global",
 	"PAGES":["MDG1","MDG2","MDG3","MDG4"],
 	"map_path":"map-data/",
-	"maps":{"LAOS":"lao-map-all.json","US":"us-map-all.json"}
+	"maps":{"LAOS":"lao-map-all.json",
+			"US":"us-map-all.json",
+			"USA":"us.js"
+			}
 	
 }
