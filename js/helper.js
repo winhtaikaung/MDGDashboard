@@ -1,0 +1,1 @@
+var helper={loadData:function(r){return $.ajax({url:r,success:function(r){},error:function(r){}})}};
