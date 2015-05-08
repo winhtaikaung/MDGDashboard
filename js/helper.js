@@ -1,1 +1,1 @@
-var helper={loadData:function(r){return $.ajax({url:r,success:function(r){},error:function(r){}})}};
+var helper={loadData:function(a){return $.ajax({url:a,success:function(a){},error:function(a){}})},DisableCache:function(){$.ajax({cache:!1})}};
